@@ -1,11 +1,11 @@
 {
-  "name": "siphon-landing-page",
+  "name": "cardenna-landing-page",
   "version": "1.0.0",
-  "description": "Siphon Pay landing page",
+  "description": "Cardenna landing page",
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/siphonpay/siphonpay.github.io"
+    "url": "https://github.com/cardenna/cardenna.github.io"
   },
   "scripts": {
     "clean": "rimraf dist/{css/*,js/*,images/*}",
